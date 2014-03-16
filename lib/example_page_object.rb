@@ -1,0 +1,1 @@
+require 'example_page_object/version'
